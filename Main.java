@@ -6,7 +6,11 @@ class Main{
         System.out.println(x);
         System.out.println("Hello World");
 
+        String xc = "Hello World";
+        System.out.println(x);
+        System.out.println("Hello World");
 
-        
+
+
     }   
 }
